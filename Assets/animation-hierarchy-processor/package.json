@@ -1,0 +1,13 @@
+{
+    "name": "com.nox7atra.animation-hierarchy-processor",
+    "version": "1.0.0",
+    "displayName": "Animation Hierarchy Processor",
+    "description": "Ассет для работы с анимациями",
+    "unity": "2021.3",
+    "unityRelease": "1f1",
+    "author": {
+        "name": "nox7atra",
+        "email": "dyadichenkoga@yandex.ru",
+        "url": "https://noxatra.ru/"
+    }
+}
